@@ -1,0 +1,90 @@
+﻿<UserControl x:Class="ProStripe.View.ItemsView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" Background="White"> 
+    <UserControl.Resources>
+        <Style TargetType="ListViewItem">
+            <EventSetter Event="MouseDoubleClick" Handler="Item_DoubleClick"/>
+            <EventSetter Event="KeyDown" Handler="Item_KeyDown"/>
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+        </Style>
+        <Style TargetType="GridViewColumnHeader">
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+        </Style>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="-4"/>
+            <Setter Property="Focusable" Value="False"/>
+            <Style.Triggers>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Opacity" Value="0.3" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Image">
+            <Setter Property="Stretch" Value="None"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid x:Name="Layout">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <DockPanel x:Name="pathNavigate" LastChildFill="True">
+            <Button x:Name="Back" Margin="5,0,0,0" Command="{Binding commandBack}">
+                <Image Source="/Images/Circle-left-icon.png" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </Button>
+            <Button x:Name="Forward" Margin="5,0,0,0" Command="{Binding commandForward}">
+                <Image Source="/Images/Circle-right-icon.png" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            </Button> 
+            <Button x:Name="Up"
+                    Command="{Binding commandUp}"
+                    Margin="5,0,0,0"
+                    DockPanel.Dock="Right">
+                <Image Source="/Images/Circle-up-icon.png" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Button>
+            <ComboBox x:Name="textRoot" Height="23" IsEditable="True" Margin="5,0,0,0"
+                    Text="{Binding Path=Root, UpdateSourceTrigger=Explicit}"
+                    KeyDown="textRoot_KeyDown"/>
+        </DockPanel>
+        <ListView x:Name="fileListView"  
+                  ItemsSource="{Binding Path=Children, NotifyOnTargetUpdated=True}"
+                  Grid.Row="1" Grid.Column="0"
+                  ScrollViewer.VerticalScrollBarVisibility="Auto" 
+                  HorizontalAlignment="Stretch"
+                  TargetUpdated="fileListView_TargetUpdated" 
+                  SelectionChanged="fileListView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn  Width="Auto">
+                        <GridViewColumnHeader Click="SortClick" Tag="Name" Content=" Name " Padding="0,0,120,0"/>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" Height="Auto">
+                                    <Image Source="{Binding Icon}" Stretch="None" />
+                                    <TextBlock Text="{Binding Name}" Margin="5,0,0,0"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn  DisplayMemberBinding="{Binding FileType}"  Width="Auto">
+                        <GridViewColumnHeader Click="SortClick"  Tag="FileType" Content=" Type "/>
+                     </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding LastWriteTime}"  Width="Auto">
+                        <GridViewColumnHeader Click="SortClick" Tag="LastWriteTime" Content=" Last written"/>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</UserControl>

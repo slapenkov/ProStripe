@@ -1,0 +1,80 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\bin\Release\ProStripe.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\bin\Release\ProStripe.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\View\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\View\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe.g.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\Interop.Shell32.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\View\ItemsView.baml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\View\ItemsView.g.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\bin\Release\Decoder.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\bin\Release\Decoder.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\ProStripe.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\View\ProgressDialog.baml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ProStripe\ProStripe\obj\x86\Release\View\ProgressDialog.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.csprojResolveAssemblyReference.cache
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\Interop.Shell32.dll
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.csproj.ResolveComReference.cache
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\View\ItemsView.baml
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\View\ProgressDialog.baml
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\View\ItemsView.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\View\MainWindow.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\View\ProgressDialog.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\App.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe_MarkupCompile.cache
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe_MarkupCompile.lref
+C:\Users\pricebill\Documents\Visual Studio 2010\Projects\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.exe
+E:\dropbox\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\Interop.Shell32.dll
+E:\dropbox\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.csproj.ResolveComReference.cache
+E:\dropbox\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.exe
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\Interop.Shell32.dll
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.csproj.ResolveComReference.cache
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.exe
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\bin\Release\ProStripe.exe
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\bin\Release\ProStripe.pdb
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\bin\Release\Decoder.pdb
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.csprojResolveAssemblyReference.cache
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\View\ItemsView.baml
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\View\ProgressDialog.baml
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\View\ItemsView.g.cs
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\View\MainWindow.g.cs
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\View\ProgressDialog.g.cs
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\App.g.cs
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe_MarkupCompile.cache
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe_MarkupCompile.lref
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\View\MainWindow.baml
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.g.resources
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.Properties.Resources.resources
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.csproj.GenerateResource.Cache
+C:\Users\bill\Dropbox\ProStripe-airbourne\ProStripe\obj\x86\Release\ProStripe.pdb
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\Interop.Shell32.dll
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe.csproj.ResolveComReference.cache
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe.exe
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe.pdb
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\bin\Release\ProStripe.exe
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\bin\Release\ProStripe.pdb
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\bin\Release\Decoder.pdb
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe.csprojResolveAssemblyReference.cache
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\View\ItemsView.baml
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\View\ProgressDialog.baml
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\View\ItemsView.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\View\MainWindow.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\View\ProgressDialog.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\App.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe_MarkupCompile.cache
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe_MarkupCompile.lref
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\View\MainWindow.baml
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe.g.resources
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe.Properties.Resources.resources
+C:\Users\pricebill\Documents\Visual Studio 2012\Projects\ProStripe-airbourne-October12\ProStripe\obj\x86\Release\ProStripe.csproj.GenerateResource.Cache
